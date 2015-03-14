@@ -1,0 +1,6 @@
+c:\users\lizama\documents\visual studio 2013\Projects\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.exe.config
+c:\users\lizama\documents\visual studio 2013\Projects\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.csprojResolveAssemblyReference.cache
+c:\users\lizama\documents\visual studio 2013\Projects\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.exe
+c:\users\lizama\documents\visual studio 2013\Projects\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.pdb
+c:\users\lizama\documents\visual studio 2013\Projects\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.exe
+c:\users\lizama\documents\visual studio 2013\Projects\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.pdb

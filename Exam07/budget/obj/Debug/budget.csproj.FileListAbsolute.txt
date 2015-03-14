@@ -1,0 +1,6 @@
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\budget\bin\Debug\budget.exe.config
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\budget\bin\Debug\budget.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\budget\bin\Debug\budget.pdb
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\budget\obj\Debug\budget.csprojResolveAssemblyReference.cache
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\budget\obj\Debug\budget.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\budget\obj\Debug\budget.pdb

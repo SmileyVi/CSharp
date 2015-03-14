@@ -1,0 +1,6 @@
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

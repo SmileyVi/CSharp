@@ -1,0 +1,6 @@
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\09.PlayWithTypes\bin\Debug\09.PlayWithTypes.exe.config
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\09.PlayWithTypes\bin\Debug\09.PlayWithTypes.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\09.PlayWithTypes\bin\Debug\09.PlayWithTypes.pdb
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\09.PlayWithTypes\obj\Debug\09.PlayWithTypes.csprojResolveAssemblyReference.cache
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\09.PlayWithTypes\obj\Debug\09.PlayWithTypes.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\09.PlayWithTypes\obj\Debug\09.PlayWithTypes.pdb

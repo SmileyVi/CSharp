@@ -1,0 +1,5 @@
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\oddeven\bin\Release\oddeven.exe.config
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\oddeven\bin\Release\oddeven.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\oddeven\bin\Release\oddeven.pdb
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\oddeven\obj\Release\oddeven.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\oddeven\obj\Release\oddeven.pdb

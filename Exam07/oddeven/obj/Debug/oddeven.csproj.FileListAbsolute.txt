@@ -1,0 +1,6 @@
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\oddeven\bin\Debug\oddeven.exe.config
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\oddeven\obj\Debug\oddeven.csprojResolveAssemblyReference.cache
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\oddeven\bin\Debug\oddeven.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\oddeven\bin\Debug\oddeven.pdb
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\oddeven\obj\Debug\oddeven.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\oddeven\obj\Debug\oddeven.pdb

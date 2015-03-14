@@ -1,0 +1,6 @@
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\house\bin\Debug\house.exe.config
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\house\bin\Debug\house.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\house\bin\Debug\house.pdb
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\house\obj\Debug\house.csprojResolveAssemblyReference.cache
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\house\obj\Debug\house.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\house\obj\Debug\house.pdb

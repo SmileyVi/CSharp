@@ -1,0 +1,6 @@
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\04.MultiplicatingSign\bin\Debug\04.MultiplicatingSign.exe.config
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\04.MultiplicatingSign\bin\Debug\04.MultiplicatingSign.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\04.MultiplicatingSign\bin\Debug\04.MultiplicatingSign.pdb
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\04.MultiplicatingSign\obj\Debug\04.MultiplicatingSign.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\04.MultiplicatingSign\obj\Debug\04.MultiplicatingSign.pdb
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\04.MultiplicatingSign\obj\Debug\04.MultiplicatingSign.csprojResolveAssemblyReference.cache

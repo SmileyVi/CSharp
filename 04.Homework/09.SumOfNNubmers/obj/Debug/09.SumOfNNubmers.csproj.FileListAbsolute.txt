@@ -1,0 +1,6 @@
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\04.Homework\09.SumOfNNubmers\bin\Debug\09.SumOfNNubmers.exe.config
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\04.Homework\09.SumOfNNubmers\obj\Debug\09.SumOfNNubmers.csprojResolveAssemblyReference.cache
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\04.Homework\09.SumOfNNubmers\bin\Debug\09.SumOfNNubmers.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\04.Homework\09.SumOfNNubmers\bin\Debug\09.SumOfNNubmers.pdb
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\04.Homework\09.SumOfNNubmers\obj\Debug\09.SumOfNNubmers.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\04.Homework\09.SumOfNNubmers\obj\Debug\09.SumOfNNubmers.pdb

@@ -1,0 +1,5 @@
+c:\users\lizama\documents\visual studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe.config
+c:\users\lizama\documents\visual studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.exe
+c:\users\lizama\documents\visual studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\02.FloatOrDouble\bin\Debug\02.FloatOrDouble.pdb
+c:\users\lizama\documents\visual studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.exe
+c:\users\lizama\documents\visual studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\02.FloatOrDouble\obj\Debug\02.FloatOrDouble.pdb

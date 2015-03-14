@@ -1,0 +1,6 @@
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\02.CompanyInformation\bin\Debug\02.CompanyInformation.exe.config
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\02.CompanyInformation\bin\Debug\02.CompanyInformation.exe
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\02.CompanyInformation\bin\Debug\02.CompanyInformation.pdb
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\02.CompanyInformation\obj\Debug\02.CompanyInformation.csprojResolveAssemblyReference.cache
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\02.CompanyInformation\obj\Debug\02.CompanyInformation.exe
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\02.CompanyInformation\obj\Debug\02.CompanyInformation.pdb

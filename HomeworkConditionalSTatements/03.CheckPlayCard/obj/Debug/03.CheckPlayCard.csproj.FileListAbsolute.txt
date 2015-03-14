@@ -1,0 +1,5 @@
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe.config
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.pdb
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.pdb

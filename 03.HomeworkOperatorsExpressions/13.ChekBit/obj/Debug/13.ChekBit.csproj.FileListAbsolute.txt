@@ -1,0 +1,5 @@
+C:\Users\lizama\documents\visual studio 2013\Projects\03.HomeworkOperatorsExpressions\13.ChekBit\bin\Debug\13.ChekBit.exe.config
+C:\Users\lizama\documents\visual studio 2013\Projects\03.HomeworkOperatorsExpressions\13.ChekBit\bin\Debug\13.ChekBit.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\03.HomeworkOperatorsExpressions\13.ChekBit\bin\Debug\13.ChekBit.pdb
+C:\Users\lizama\documents\visual studio 2013\Projects\03.HomeworkOperatorsExpressions\13.ChekBit\obj\Debug\13.ChekBit.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\03.HomeworkOperatorsExpressions\13.ChekBit\obj\Debug\13.ChekBit.pdb

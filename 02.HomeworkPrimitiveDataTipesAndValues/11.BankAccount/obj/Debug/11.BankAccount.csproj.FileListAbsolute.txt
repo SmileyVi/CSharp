@@ -1,0 +1,5 @@
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\11.BankAccount\bin\Debug\11.BankAccount.exe.config
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\11.BankAccount\bin\Debug\11.BankAccount.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\11.BankAccount\bin\Debug\11.BankAccount.pdb
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\11.BankAccount\obj\Debug\11.BankAccount.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\11.BankAccount\obj\Debug\11.BankAccount.pdb

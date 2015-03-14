@@ -1,0 +1,5 @@
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\01.IntroductionToProgrammingHomework\07.FirstLastName\bin\Debug\07.FirstLastName.exe.config
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\01.IntroductionToProgrammingHomework\07.FirstLastName\bin\Debug\07.FirstLastName.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\01.IntroductionToProgrammingHomework\07.FirstLastName\bin\Debug\07.FirstLastName.pdb
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\01.IntroductionToProgrammingHomework\07.FirstLastName\obj\Debug\07.FirstLastName.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\01.IntroductionToProgrammingHomework\07.FirstLastName\obj\Debug\07.FirstLastName.pdb

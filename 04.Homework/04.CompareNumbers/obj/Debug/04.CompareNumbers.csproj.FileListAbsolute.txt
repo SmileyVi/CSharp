@@ -1,0 +1,6 @@
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\04.CompareNumbers\bin\Debug\04.CompareNumbers.exe.config
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\04.CompareNumbers\bin\Debug\04.CompareNumbers.exe
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\04.CompareNumbers\bin\Debug\04.CompareNumbers.pdb
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\04.CompareNumbers\obj\Debug\04.CompareNumbers.csprojResolveAssemblyReference.cache
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\04.CompareNumbers\obj\Debug\04.CompareNumbers.exe
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\04.CompareNumbers\obj\Debug\04.CompareNumbers.pdb

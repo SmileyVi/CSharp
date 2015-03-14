@@ -1,0 +1,6 @@
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\06.TheBiggestOf5\bin\Debug\06.TheBiggestOf5.exe.config
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\06.TheBiggestOf5\bin\Debug\06.TheBiggestOf5.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\06.TheBiggestOf5\bin\Debug\06.TheBiggestOf5.pdb
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\06.TheBiggestOf5\obj\Debug\06.TheBiggestOf5.csprojResolveAssemblyReference.cache
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\06.TheBiggestOf5\obj\Debug\06.TheBiggestOf5.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\06.TheBiggestOf5\obj\Debug\06.TheBiggestOf5.pdb

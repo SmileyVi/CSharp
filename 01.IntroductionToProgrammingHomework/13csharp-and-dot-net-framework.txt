@@ -1,0 +1,3 @@
+
+C# is a programing language, .NET is an application framework. The .NET libraries can run on the CLR and thus any language which can run on the CLR can also use the .NET libraries.
+.NET isn't just a library, but also a runtime for executing applications.The knowledge of C# implies some knowledge of .NET (because the C# object model corresponds to the .NET object model and you can do anything interesting in C# just by using .NET libraries). The opposite isn't necessarily true as you can use other languages to write .NET applications.

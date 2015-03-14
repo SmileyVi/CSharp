@@ -1,0 +1,6 @@
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\StringsObjects\obj\Debug\06.StringsObjects.csprojResolveAssemblyReference.cache
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\StringsObjects\bin\Debug\StringsObjects.exe.config
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\StringsObjects\bin\Debug\StringsObjects.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\StringsObjects\bin\Debug\StringsObjects.pdb
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\StringsObjects\obj\Debug\StringsObjects.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\StringsObjects\obj\Debug\StringsObjects.pdb

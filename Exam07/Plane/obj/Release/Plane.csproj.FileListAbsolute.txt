@@ -1,0 +1,6 @@
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\Plane\bin\Release\Plane.exe.config
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\Plane\bin\Release\Plane.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\Plane\bin\Release\Plane.pdb
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\Plane\obj\Release\Plane.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\Plane\obj\Release\Plane.pdb
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\Plane\obj\Release\Plane.csprojResolveAssemblyReference.cache

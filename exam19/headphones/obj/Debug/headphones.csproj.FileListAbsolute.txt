@@ -1,0 +1,6 @@
+c:\users\lizama\documents\visual studio 2013\Projects\exam19\headphones\bin\Debug\headphones.exe.config
+c:\users\lizama\documents\visual studio 2013\Projects\exam19\headphones\bin\Debug\headphones.exe
+c:\users\lizama\documents\visual studio 2013\Projects\exam19\headphones\bin\Debug\headphones.pdb
+c:\users\lizama\documents\visual studio 2013\Projects\exam19\headphones\obj\Debug\headphones.csprojResolveAssemblyReference.cache
+c:\users\lizama\documents\visual studio 2013\Projects\exam19\headphones\obj\Debug\headphones.exe
+c:\users\lizama\documents\visual studio 2013\Projects\exam19\headphones\obj\Debug\headphones.pdb

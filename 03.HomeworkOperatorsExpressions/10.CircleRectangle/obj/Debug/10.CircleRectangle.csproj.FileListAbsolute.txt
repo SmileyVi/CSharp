@@ -1,0 +1,6 @@
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\10.CircleRectangle\bin\Debug\10.CircleRectangle.exe.config
+C:\Users\lizama\documents\visual studio 2013\Projects\03.HomeworkOperatorsExpressions\10.CircleRectangle\bin\Debug\10.CircleRectangle.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\03.HomeworkOperatorsExpressions\10.CircleRectangle\bin\Debug\10.CircleRectangle.pdb
+C:\Users\lizama\documents\visual studio 2013\Projects\03.HomeworkOperatorsExpressions\10.CircleRectangle\obj\Debug\10.CircleRectangle.csprojResolveAssemblyReference.cache
+C:\Users\lizama\documents\visual studio 2013\Projects\03.HomeworkOperatorsExpressions\10.CircleRectangle\obj\Debug\10.CircleRectangle.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\03.HomeworkOperatorsExpressions\10.CircleRectangle\obj\Debug\10.CircleRectangle.pdb

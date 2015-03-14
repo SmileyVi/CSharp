@@ -1,0 +1,5 @@
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.exe.config
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Sequence\obj\Debug\Sequence.pdb
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Sequence\bin\Debug\Sequence.pdb

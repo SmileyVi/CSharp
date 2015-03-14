@@ -1,0 +1,6 @@
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\BabaTinche\bin\Debug\BabaTinche.exe.config
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\BabaTinche\bin\Debug\BabaTinche.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\BabaTinche\bin\Debug\BabaTinche.pdb
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\BabaTinche\obj\Debug\BabaTinche.csprojResolveAssemblyReference.cache
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\BabaTinche\obj\Debug\BabaTinche.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\BabaTinche\obj\Debug\BabaTinche.pdb

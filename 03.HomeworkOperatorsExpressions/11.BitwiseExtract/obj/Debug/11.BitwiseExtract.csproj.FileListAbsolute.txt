@@ -1,0 +1,5 @@
+C:\Users\lizama\documents\visual studio 2013\Projects\03.HomeworkOperatorsExpressions\11.BitwiseExtract\bin\Debug\11.BitwiseExtract.exe.config
+C:\Users\lizama\documents\visual studio 2013\Projects\03.HomeworkOperatorsExpressions\11.BitwiseExtract\bin\Debug\11.BitwiseExtract.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\03.HomeworkOperatorsExpressions\11.BitwiseExtract\bin\Debug\11.BitwiseExtract.pdb
+C:\Users\lizama\documents\visual studio 2013\Projects\03.HomeworkOperatorsExpressions\11.BitwiseExtract\obj\Debug\11.BitwiseExtract.exe
+C:\Users\lizama\documents\visual studio 2013\Projects\03.HomeworkOperatorsExpressions\11.BitwiseExtract\obj\Debug\11.BitwiseExtract.pdb

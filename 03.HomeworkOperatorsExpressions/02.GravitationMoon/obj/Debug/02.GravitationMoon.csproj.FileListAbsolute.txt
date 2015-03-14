@@ -1,0 +1,6 @@
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\02.GravitationMoon\bin\Debug\02.GravitationMoon.exe.config
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\02.GravitationMoon\bin\Debug\02.GravitationMoon.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\02.GravitationMoon\bin\Debug\02.GravitationMoon.pdb
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\02.GravitationMoon\obj\Debug\02.GravitationMoon.csprojResolveAssemblyReference.cache
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\02.GravitationMoon\obj\Debug\02.GravitationMoon.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\02.GravitationMoon\obj\Debug\02.GravitationMoon.pdb

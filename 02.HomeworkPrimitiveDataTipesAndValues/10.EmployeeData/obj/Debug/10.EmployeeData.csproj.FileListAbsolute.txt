@@ -1,0 +1,5 @@
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\10.EmployeeData\bin\Debug\10.EmployeeData.exe.config
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\10.EmployeeData\bin\Debug\10.EmployeeData.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\10.EmployeeData\bin\Debug\10.EmployeeData.pdb
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\10.EmployeeData\obj\Debug\10.EmployeeData.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\10.EmployeeData\obj\Debug\10.EmployeeData.pdb

@@ -1,0 +1,5 @@
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\08.DigitAsWords\bin\Debug\08.DigitAsWords.exe.config
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\08.DigitAsWords\bin\Debug\08.DigitAsWords.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\08.DigitAsWords\bin\Debug\08.DigitAsWords.pdb
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\08.DigitAsWords\obj\Debug\08.DigitAsWords.exe
+C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\08.DigitAsWords\obj\Debug\08.DigitAsWords.pdb

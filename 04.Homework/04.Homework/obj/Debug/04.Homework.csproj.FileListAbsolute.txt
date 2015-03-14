@@ -1,0 +1,6 @@
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\04.Homework\bin\Debug\04.Homework.exe.config
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\04.Homework\bin\Debug\04.Homework.exe
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\04.Homework\bin\Debug\04.Homework.pdb
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\04.Homework\obj\Debug\04.Homework.csprojResolveAssemblyReference.cache
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\04.Homework\obj\Debug\04.Homework.exe
+c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\04.Homework\obj\Debug\04.Homework.pdb
