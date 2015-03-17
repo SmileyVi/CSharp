@@ -1,6 +1,0 @@
-c:\users\lizama\documents\visual studio 2013\Projects\exam19\TravellerBob\bin\Debug\TravellerBob.exe.config
-c:\users\lizama\documents\visual studio 2013\Projects\exam19\TravellerBob\bin\Debug\TravellerBob.exe
-c:\users\lizama\documents\visual studio 2013\Projects\exam19\TravellerBob\bin\Debug\TravellerBob.pdb
-c:\users\lizama\documents\visual studio 2013\Projects\exam19\TravellerBob\obj\Debug\TravellerBob.csprojResolveAssemblyReference.cache
-c:\users\lizama\documents\visual studio 2013\Projects\exam19\TravellerBob\obj\Debug\TravellerBob.exe
-c:\users\lizama\documents\visual studio 2013\Projects\exam19\TravellerBob\obj\Debug\TravellerBob.pdb
