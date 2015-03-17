@@ -1,6 +1,0 @@
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\05.ThirdDigit\bin\Debug\05.ThirdDigit.exe.config
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\05.ThirdDigit\bin\Debug\05.ThirdDigit.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\05.ThirdDigit\bin\Debug\05.ThirdDigit.pdb
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\05.ThirdDigit\obj\Debug\05.ThirdDigit.csprojResolveAssemblyReference.cache
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\05.ThirdDigit\obj\Debug\05.ThirdDigit.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\05.ThirdDigit\obj\Debug\05.ThirdDigit.pdb

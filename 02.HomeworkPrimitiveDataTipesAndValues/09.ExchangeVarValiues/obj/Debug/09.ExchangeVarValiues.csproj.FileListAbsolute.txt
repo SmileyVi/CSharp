@@ -1,6 +1,0 @@
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\09.ExchangeVarValiues\bin\Debug\09.ExchangeVarValiues.exe.config
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\09.ExchangeVarValiues\bin\Debug\09.ExchangeVarValiues.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\09.ExchangeVarValiues\bin\Debug\09.ExchangeVarValiues.pdb
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\09.ExchangeVarValiues\obj\Debug\09.ExchangeVarValiues.csprojResolveAssemblyReference.cache
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\09.ExchangeVarValiues\obj\Debug\09.ExchangeVarValiues.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\09.ExchangeVarValiues\obj\Debug\09.ExchangeVarValiues.pdb

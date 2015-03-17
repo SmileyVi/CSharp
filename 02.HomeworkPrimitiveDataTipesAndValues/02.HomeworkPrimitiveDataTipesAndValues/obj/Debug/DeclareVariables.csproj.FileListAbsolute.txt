@@ -1,6 +1,0 @@
-c:\users\lizama\documents\visual studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\02.HomeworkPrimitiveDataTipesAndValues\bin\Debug\02.HomeworkPrimitiveDataTipesAndValues.exe.config
-c:\users\lizama\documents\visual studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\02.HomeworkPrimitiveDataTipesAndValues\bin\Debug\02.HomeworkPrimitiveDataTipesAndValues.exe
-c:\users\lizama\documents\visual studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\02.HomeworkPrimitiveDataTipesAndValues\bin\Debug\02.HomeworkPrimitiveDataTipesAndValues.pdb
-c:\users\lizama\documents\visual studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\02.HomeworkPrimitiveDataTipesAndValues\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
-c:\users\lizama\documents\visual studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\02.HomeworkPrimitiveDataTipesAndValues\obj\Debug\02.HomeworkPrimitiveDataTipesAndValues.exe
-c:\users\lizama\documents\visual studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\02.HomeworkPrimitiveDataTipesAndValues\obj\Debug\02.HomeworkPrimitiveDataTipesAndValues.pdb

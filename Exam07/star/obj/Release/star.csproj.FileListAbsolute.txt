@@ -1,5 +1,0 @@
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\star\bin\Release\star.exe.config
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\star\bin\Release\star.exe
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\star\bin\Release\star.pdb
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\star\obj\Release\star.exe
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\star\obj\Release\star.pdb

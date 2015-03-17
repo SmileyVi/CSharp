@@ -1,6 +1,0 @@
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\Car\bin\Debug\Car.exe.config
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\Car\bin\Debug\Car.exe
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\Car\bin\Debug\Car.pdb
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\Car\obj\Debug\Car.exe
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\Car\obj\Debug\Car.pdb

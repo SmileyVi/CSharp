@@ -1,6 +1,0 @@
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\dragobujet\bin\Debug\dragobujet.exe.config
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\dragobujet\bin\Debug\dragobujet.exe
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\dragobujet\bin\Debug\dragobujet.pdb
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\dragobujet\obj\Debug\dragobujet.csprojResolveAssemblyReference.cache
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\dragobujet\obj\Debug\dragobujet.exe
-C:\Users\lizama\documents\visual studio 2013\Projects\Exam07\dragobujet\obj\Debug\dragobujet.pdb

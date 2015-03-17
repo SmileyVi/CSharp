@@ -1,6 +1,0 @@
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\04.Unicode Character\bin\Debug\04.Unicode Character.exe.config
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\04.Unicode Character\obj\Debug\04.UnicodeCharacter.csprojResolveAssemblyReference.cache
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\04.Unicode Character\bin\Debug\04.Unicode Character.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\04.Unicode Character\bin\Debug\04.Unicode Character.pdb
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\04.Unicode Character\obj\Debug\04.Unicode Character.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\04.Unicode Character\obj\Debug\04.Unicode Character.pdb

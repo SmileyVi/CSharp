@@ -1,6 +1,0 @@
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\03.HomeworkOperatorsExpressions\bin\Debug\03.HomeworkOperatorsExpressions.exe.config
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\03.HomeworkOperatorsExpressions\bin\Debug\03.HomeworkOperatorsExpressions.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\03.HomeworkOperatorsExpressions\bin\Debug\03.HomeworkOperatorsExpressions.pdb
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\03.HomeworkOperatorsExpressions\obj\Debug\01.OddOrEven.csprojResolveAssemblyReference.cache
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\03.HomeworkOperatorsExpressions\obj\Debug\03.HomeworkOperatorsExpressions.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\03.HomeworkOperatorsExpressions\obj\Debug\03.HomeworkOperatorsExpressions.pdb

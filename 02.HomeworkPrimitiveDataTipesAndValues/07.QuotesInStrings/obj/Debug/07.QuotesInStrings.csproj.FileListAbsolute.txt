@@ -1,6 +1,0 @@
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.csprojResolveAssemblyReference.cache
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb

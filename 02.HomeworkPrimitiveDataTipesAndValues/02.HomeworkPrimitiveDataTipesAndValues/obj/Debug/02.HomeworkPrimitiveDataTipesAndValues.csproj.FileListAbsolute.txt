@@ -1,1 +1,0 @@
-c:\users\lizama\documents\visual studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\02.HomeworkPrimitiveDataTipesAndValues\bin\Debug\02.HomeworkPrimitiveDataTipesAndValues.exe.config

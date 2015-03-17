@@ -1,5 +1,0 @@
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\04.Homework\10.Fibonacci\bin\Debug\10.Fibonacci.exe.config
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\04.Homework\10.Fibonacci\bin\Debug\10.Fibonacci.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\04.Homework\10.Fibonacci\bin\Debug\10.Fibonacci.pdb
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\04.Homework\10.Fibonacci\obj\Debug\10.Fibonacci.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\04.Homework\10.Fibonacci\obj\Debug\10.Fibonacci.pdb

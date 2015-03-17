@@ -1,3 +1,0 @@
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\LongSequence\bin\Debug\LongSequence.exe.config
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\LongSequence\obj\Debug\LongSequence.pdb

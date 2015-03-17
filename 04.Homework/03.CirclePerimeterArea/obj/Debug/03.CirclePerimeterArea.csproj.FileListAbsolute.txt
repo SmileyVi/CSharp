@@ -1,6 +1,0 @@
-c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.exe.config
-c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.exe
-c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\03.CirclePerimeterArea\bin\Debug\03.CirclePerimeterArea.pdb
-c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\03.CirclePerimeterArea\obj\Debug\03.CirclePerimeterArea.csprojResolveAssemblyReference.cache
-c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\03.CirclePerimeterArea\obj\Debug\03.CirclePerimeterArea.exe
-c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\03.CirclePerimeterArea\obj\Debug\03.CirclePerimeterArea.pdb

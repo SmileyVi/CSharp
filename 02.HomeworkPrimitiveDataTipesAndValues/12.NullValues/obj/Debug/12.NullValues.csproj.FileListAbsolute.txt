@@ -1,6 +1,0 @@
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\12.NullValues\bin\Debug\12.NullValues.exe.config
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\12.NullValues\bin\Debug\12.NullValues.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\12.NullValues\bin\Debug\12.NullValues.pdb
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\12.NullValues\obj\Debug\12.NullValues.csprojResolveAssemblyReference.cache
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\12.NullValues\obj\Debug\12.NullValues.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\12.NullValues\obj\Debug\12.NullValues.pdb

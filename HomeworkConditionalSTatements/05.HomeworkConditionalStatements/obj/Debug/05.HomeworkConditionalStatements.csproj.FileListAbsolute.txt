@@ -1,1 +1,0 @@
-c:\users\lizama\documents\visual studio 2013\Projects\05.HomeworkConditionalStatements\05.HomeworkConditionalStatements\bin\Debug\05.HomeworkConditionalStatements.exe.config

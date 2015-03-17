@@ -1,6 +1,0 @@
-c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\07.SumOfFive\bin\Debug\07.SumOfFive.exe.config
-c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\07.SumOfFive\bin\Debug\07.SumOfFive.exe
-c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\07.SumOfFive\bin\Debug\07.SumOfFive.pdb
-c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\07.SumOfFive\obj\Debug\07.SumOfFive.csprojResolveAssemblyReference.cache
-c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\07.SumOfFive\obj\Debug\07.SumOfFive.exe
-c:\users\lizama\documents\visual studio 2013\Projects\04.Homework\07.SumOfFive\obj\Debug\07.SumOfFive.pdb

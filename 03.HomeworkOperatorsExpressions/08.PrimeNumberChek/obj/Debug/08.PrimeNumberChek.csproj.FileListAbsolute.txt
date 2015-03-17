@@ -1,6 +1,0 @@
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\08.PrimeNumberChek\bin\Debug\08.PrimeNumberChek.exe.config
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\08.PrimeNumberChek\bin\Debug\08.PrimeNumberChek.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\08.PrimeNumberChek\bin\Debug\08.PrimeNumberChek.pdb
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\08.PrimeNumberChek\obj\Debug\08.PrimeNumberChek.csprojResolveAssemblyReference.cache
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\08.PrimeNumberChek\obj\Debug\08.PrimeNumberChek.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\03.HomeworkOperatorsExpressions\08.PrimeNumberChek\obj\Debug\08.PrimeNumberChek.pdb

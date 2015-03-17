@@ -1,6 +1,0 @@
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\07.SortNumbers\bin\Debug\07.SortNumbers.exe.config
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\07.SortNumbers\bin\Debug\07.SortNumbers.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\07.SortNumbers\bin\Debug\07.SortNumbers.pdb
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\07.SortNumbers\obj\Debug\07.SortNumbers.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\07.SortNumbers\obj\Debug\07.SortNumbers.pdb
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\05.HomeworkConditionalStatements\07.SortNumbers\obj\Debug\07.SortNumbers.csprojResolveAssemblyReference.cache

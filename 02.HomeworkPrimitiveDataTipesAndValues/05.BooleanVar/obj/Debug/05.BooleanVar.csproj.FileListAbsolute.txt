@@ -1,6 +1,0 @@
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\05.BooleanVar\bin\Debug\05.BooleanVar.exe.config
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\05.BooleanVar\bin\Debug\05.BooleanVar.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\05.BooleanVar\bin\Debug\05.BooleanVar.pdb
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\05.BooleanVar\obj\Debug\05.BooleanVar.exe
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\05.BooleanVar\obj\Debug\05.BooleanVar.pdb
-C:\Users\lizama\Documents\Visual Studio 2013\Projects\02.HomeworkPrimitiveDataTipesAndValues\05.BooleanVar\obj\Debug\05.BooleanVar.csprojResolveAssemblyReference.cache
